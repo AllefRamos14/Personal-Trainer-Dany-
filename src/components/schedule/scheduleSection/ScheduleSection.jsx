@@ -33,7 +33,7 @@ function ScheduleSection() {
       `Olá Dany! Quero agendar uma sessão de ${item.modality} na ${item.day} às ${item.time}.`,
     );
 
-    window.open(`https://wa.me/5500000000000?text=${message}`, "_blank");
+    window.open(`https://wa.me/558598677116?text=${message}`, "_blank");
   }
 
   return (
