@@ -66,7 +66,7 @@ personal-dany/
 
 ```bash
 # clone o repositório
-git clone https://github.com/SEU-USUARIO/personal-dany.git
+git clone https://github.com/AllefRamos14/Personal-Trainer-Dany-.git
 
 # instale as dependências
 npm install
