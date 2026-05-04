@@ -447,6 +447,7 @@ export const Stats = styled.div`
   @media (max-width: 900px) {
     justify-content: center;
     flex-wrap: wrap;
+    margin-top: 14px;
   }
 
   @media (max-width: 480px) {
@@ -455,6 +456,7 @@ export const Stats = styled.div`
     gap: 20px;
     margin-top: 32px;
     padding-top: 28px;
+    margin-top: 14px;
   }
 `;
 
