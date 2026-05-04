@@ -69,10 +69,12 @@ export const Section = styled.section`
 
   @media (max-width: 900px) {
     grid-template-columns: repeat(2, 1fr);
+    margin-top: 10px;
   }
 
   @media (max-width: 600px) {
     grid-template-columns: 1fr;
+    margin-top: 10px;
   }
 `;
 
