@@ -45,6 +45,7 @@ O **Personal Dany** é uma landing page desenvolvida para promover serviços de 
 
 ## 📂 Estrutura do projeto
 
+```
 personal-dany/
 ├── public/
 │   └── ginastica.webp
@@ -56,6 +57,8 @@ personal-dany/
 ├── index.html
 ├── vite.config.js
 └── package.json
+```
+
 
 ---
 
