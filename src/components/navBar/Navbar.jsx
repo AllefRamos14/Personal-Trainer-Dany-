@@ -1,6 +1,19 @@
+import { useMemo } from "react";
 import { CTA, Logo, NavLinks, StyledLink, Wrapper } from "./styles";
 
 function Navbar() {
+  const whatsappLink = useMemo(() => {
+    const message = `
+        Olá! 👋
+
+        Vi seu site e gostaria de agendar um treino personalizado.
+
+        Qual sua disponibilidade? 💪
+    `;
+
+    return `https://wa.me/558598677116?text=${encodeURIComponent(message)}`;
+  }, []);
+
   return (
     <Wrapper>
       <Logo>
@@ -22,7 +35,7 @@ function Navbar() {
         </li>
       </NavLinks>
 
-      <CTA href="https://wa.me/558598677116" target="_blank" rel="noopener noreferrer">
+      <CTA href={whatsappLink} target="_blank" rel="noopener noreferrer">
         Agendar ✦
       </CTA>
     </Wrapper>
