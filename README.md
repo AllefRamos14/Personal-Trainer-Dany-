@@ -8,8 +8,8 @@
 
 > Landing page moderna para apresentação de serviços de personal trainer, com foco em experiência mobile, design elegante e conversão via WhatsApp.
 
-🔗 **Deploy:** https://personal-trainer-dany.vercel.app  
-💻 **Repositório:** https://github.com/SEU-USUARIO/personal-dany
+🔗 **Deploy:** https://personal-trainer-dany.vercel.app/  
+💻 **Repositório:** https://github.com/AllefRamos14/Personal-Trainer-Dany-.git
 
 ---
 
