@@ -15,7 +15,7 @@
 
 ## 📸 Preview
 
-![preview](./public/ginastica.webp)
+![preview](./public/Tela-Home.webp)
 
 ---
 
