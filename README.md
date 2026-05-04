@@ -1,16 +1,83 @@
-# React + Vite
+# 💪 Personal Dany
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/Vite-orange?style=flat&logo=vite)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Currently, two official plugins are available:
+> Landing page moderna para apresentação de serviços de personal trainer, com foco em experiência mobile, design elegante e conversão via WhatsApp.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Deploy:** https://personal-trainer-dany.vercel.app  
+💻 **Repositório:** https://github.com/SEU-USUARIO/personal-dany
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![preview](./public/ginastica.webp)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Sobre o projeto
+
+O **Personal Dany** é uma landing page desenvolvida para promover serviços de treinamento personalizado. O projeto foi construído com foco em:
+
+- 📱 Experiência fluida em dispositivos móveis
+- ✨ Design elegante e profissional
+- 💬 Conversão direta via WhatsApp
+- ⚛️ Estrutura escalável com React
+
+---
+
+## ⚙️ Tecnologias
+
+| Tecnologia | Uso |
+|---|---|
+| ⚛️ React 19 | Interface declarativa |
+| ⚡ Vite | Build ultrarrápido |
+| 🎨 Styled-components | CSS-in-JS |
+| 🔀 React Router DOM | Navegação SPA |
+| 🧹 Biome | Lint + format |
+| 🚀 Vercel | Deploy contínuo |
+
+---
+
+## 📂 Estrutura do projeto
+
+personal-dany/
+├── public/
+│   └── ginastica.webp
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── main.jsx
+├── index.html
+├── vite.config.js
+└── package.json
+
+---
+
+## 🚀 Como rodar localmente
+
+```bash
+# clone o repositório
+git clone https://github.com/SEU-USUARIO/personal-dany.git
+
+# instale as dependências
+npm install
+
+# rode o servidor de desenvolvimento
+npm run dev
+```
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<p align="center">Feito com 💪 por <a href="https://github.com/SEU-USUARIO">Dany</a></p>
