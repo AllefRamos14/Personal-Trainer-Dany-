@@ -22,19 +22,6 @@ export const ImageContainer = styled.div`
 `;
 
 export const ImageBackground = styled.div`
-  /* width: 100%;
-  height: 580px;
-  background: linear-gradient(
-    135deg,
-    ${({ theme }) => theme.colors.roseLight} 0%,
-    ${({ theme }) => theme.colors.goldLight} 100%
-  );
-  border-radius: 40px;
-  position: relative;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center; */
 
   @media (max-width: 900px) {
     height: 420px;
@@ -53,7 +40,7 @@ export const Initials = styled.div`
    width: 100%;
     height: 100%;
     border-radius: 10%;
-    object-fit: cover; /* 👈 ESSENCIAL */
+    object-fit: cover; 
     display: block;
   }
 
