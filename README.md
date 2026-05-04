@@ -83,4 +83,4 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 ---
 
-<p align="center">Feito com 💪 por <a href="https://github.com/SEU-USUARIO">Dany</a></p>
+<p align="center">Feito com 💪 por <a href="https://github.com/AllefRamos14/Personal-Trainer-Dany-.git>Dany</a></p>
