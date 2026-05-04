@@ -6,7 +6,7 @@
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> Landing page moderna para apresentação de serviços de personal trainer, com foco em experiência mobile, design elegante e conversão via WhatsApp.
+> Site para apresentação de serviços de personal trainer, com foco em experiência mobile, design elegante e conversão via WhatsApp.
 
 🔗 **Deploy:** https://personal-trainer-dany.vercel.app/  
 💻 **Repositório:** https://github.com/AllefRamos14/Personal-Trainer-Dany-.git
